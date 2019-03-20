@@ -24,7 +24,7 @@ group :development do
   gem 'capistrano-passenger'
 end
 
-gem 'devise', '~> 3.5.2'
+gem 'devise', '~> 4.6.0'
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'font-awesome-rails', '~> 4.4.0.0'
 gem 'opengraph_parser', github: 'huyha85/opengraph_parser'
